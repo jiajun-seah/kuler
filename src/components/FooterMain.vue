@@ -3,7 +3,7 @@
 
     <div id="footerContainer">
         <div id="logo1">
-            <KulerLogoWhite/>
+        <KulerLogoWhite/>
             <h6 id ="copyright-line"> &copy; 2022</h6>
             <div id="bio">
                 <h6 id="bio-text"> Kuler aims to provide digitalization for the sales of artistic content, on a reliable and secure platform. </h6>
@@ -18,7 +18,7 @@
                 </p>
             </div>
         </div>
-        
+
         <div id = "faqLinks">
             <a href="#"><h6 class="faqHeader">Frequently Asked Questions</h6></a>
             <br><br>

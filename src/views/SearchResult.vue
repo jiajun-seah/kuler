@@ -9,7 +9,7 @@
       <FilterOptions/>
     </div>
     <div class="col-lg-10">
-      <CarouselScroll/>
+      <ProductCard/>
     </div>
   </div>
 </div>
@@ -29,13 +29,13 @@
 
 <script>
 import FilterOptions from '@/components/FilterOptions.vue'
-import CarouselScroll from '@/components/CarouselScroll.vue'
+import ProductCard from '@/components/ProductCard.vue'
 
 export default {
   name: 'App',
   components:{
     FilterOptions,
-    CarouselScroll
+    ProductCard
   },
   data(){
     
